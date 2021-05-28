@@ -1,0 +1,20 @@
+html {
+    text-align: center;
+    background-color: #464c5b;
+    color: rgb(110, 114, 118);
+}
+
+.title {
+    text-align: center;
+    font-size: 50px;
+}
+
+h1 {
+    background-color: rgb(103, 103, 110);
+    color:  white;
+    margin-top: 50px;
+    margin-right: 400px;
+    margin-left: 400px;
+    padding: 10px;
+    box-shadow: 5px 5px 5px black;
+}
